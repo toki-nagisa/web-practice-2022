@@ -1,0 +1,47 @@
+/* reset css +α */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  position: relative;
+  color: #3c3c3c;
+  font-size: 1.8rem;
+  font-family: "M PLUS 1p", sans-serif;
+  overflow-x: hidden;
+}
+
+img {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: #3c3c3c;
+  text-decoration: none;
+}
+
+/* defined-css */
+.mb-8 {
+  margin-bottom: 8px;
+}
+.fw-700 {
+  font-weight: bold;
+}
+.fw-900 {
+  font-weight: 900;
+}
+.lh {
+  line-height: 1.75;
+}
